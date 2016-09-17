@@ -1,0 +1,3 @@
+[submodule "simulation"]
+	path = simulation
+	url = git@github.com:oajara/slots-simulation.git
